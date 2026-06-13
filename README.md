@@ -96,19 +96,19 @@ Upon reaching the final "Congratulations" execution state, Yemek AI ceases being
 
 ---
 
-## 3. The Intellectual Property & Freeculi™ Dual-Licensing Blueprint
+## 3. The Intellectual Property & FreeCuli™ Dual-Licensing Blueprint
 
 ### 3.1 Prior Art Defense Mechanism
 This specification constitutes a detailed, public, and verifiable historical documentation of the HFSCA architecture. Under international patent frameworks (including USPTO Leahy-Smith America Invents Act "First-Inventor-to-File" rules, EPO Article 54 EPC, and WIPO guidelines), this document functions as **Prior Art**. Consequently, no hardware enterprise or corporate entity can legally file patent claims regarding "edge-computed volumetric-to-metric programmatic mapping linked to an on-device local acoustic state machine for cooking environments."
 
-### 3.2 The Freeculi Commercial Framework & Trademark Strategy
-While **HFSCA** represents the open-source technical architecture, **Freeculi™** is the commercial "Ingredient Brand" (similar to *Intel Inside*) licensed to hardware OEMs. 
+### 3.2 The FreeCuli Commercial Framework & Trademark Strategy
+While **HFSCA** represents the open-source technical architecture, **FreeCuli™** is the commercial "Ingredient Brand" (similar to *Intel Inside*) licensed to hardware OEMs. 
 
-When consumers see the **"Freeculi Inside"** badge on a smart oven or refrigerator, it acts as a guarantee of 100% offline functionality, absolute data privacy, and zero-latency voice guidance.
+When consumers see the **"FreeCuli Inside"** badge on a smart oven or refrigerator, it acts as a guarantee of 100% offline functionality, absolute data privacy, and zero-latency voice guidance.
 
 ### 3.3 The AGPL-3.0 Commercial Deterrent & Dual Licensing
 As this platform is strictly licensed under the GNU Affero General Public License v3.0, any smart kitchen manufacturer or platform provider that embeds, bundles, or accesses this system architecture over a network inside a proprietary environment is legally mandated to release their entire system's source code to the general public.
 
 To circumvent this copyleft mandate, enterprise commercial operators must enter into a **Proprietary Commercial B2B Dual-Licensing Agreement** with YemekYarismasi.com. This agreement grants the manufacturer:
 1. The right to embed the closed-source commercial SDK binaries.
-2. A formal **Trademark License** allowing them to legally display the Freeculi brand on their hardware and marketing materials.
+2. A formal **Trademark License** allowing them to legally display the FreeCuli brand on their hardware and marketing materials.
